@@ -1,0 +1,16 @@
+[
+{
+  "modid": "progresstracker",
+  "name": "Progress Tracker",
+  "description": "A mod to track how many items you collect.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheOnlyBenji", "Benji377"],
+  "credits": "The Forge and FML guys, for making the library",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
